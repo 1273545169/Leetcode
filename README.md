@@ -9,8 +9,8 @@
 
 ### 多米诺骨牌
 
- - [推多米诺](https://github.com/1273545169/Leetcode/blob/master/%E6%8E%A8%E5%A4%9A%E7%B1%B3%E8%AF%BA.md)
+ - [838、推多米诺](https://github.com/1273545169/Leetcode/blob/master/%E6%8E%A8%E5%A4%9A%E7%B1%B3%E8%AF%BA.md)
 
 ### 链表
 
- - [反转链表 II](https://github.com/1273545169/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
+ - [2、反转链表 II](https://github.com/1273545169/Leetcode/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)
