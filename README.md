@@ -21,3 +21,8 @@
  ### 栈、队列、堆
  
   - [225、用队列实现栈](https://github.com/1273545169/Leetcode/blob/master/225%E3%80%81%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md)
+  
+  
+  ### 动态规划
+  
+  - [300、最长上升子序列](https://github.com/1273545169/Leetcode/blob/master/300%E3%80%81%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
