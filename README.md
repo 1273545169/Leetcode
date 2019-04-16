@@ -30,5 +30,7 @@
   ### 动态规划
   
   - [300、最长上升子序列](https://github.com/1273545169/Leetcode/blob/master/300%E3%80%81%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md)
+
+  - [72、编辑距离](https://github.com/1273545169/Leetcode/blob/master/72%E3%80%81%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md)
   
 
