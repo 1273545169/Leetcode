@@ -1,0 +1,40 @@
+### 题目描述
+
+[leetcode 148、排序链表](https://leetcode-cn.com/problems/sort-list/submissions/)
+
+### 思路解析
+
+找到链表的中点，然后使用归并排序
+
+```python
+
+class Solution:
+    def sortList(self, head: ListNode) -> ListNode:
+        if not head or not head.next:
+            return head
+
+        pre, sp, fp = None, head, head
+        while fp and fp.next:
+            pre = sp
+            sp = sp.next
+            fp = fp.next.next
+        pre.next = None
+
+        return self.mergeTwoLists(self.sortList(head), self.sortList(sp))
+
+    def mergeTwoLists(self, l1, l2):
+        if not l1 or not l2:
+            return l1 or l2
+
+        if l1.val < l2.val:
+            l1.next = self.mergeTwoLists(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists(l1, l2.next)
+            return l2
+
+
+```
+
+
+
