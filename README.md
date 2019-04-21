@@ -49,6 +49,8 @@
   
   - [518、零钱兑换Ⅱ](https://github.com/1273545169/Leetcode/blob/master/518%E3%80%81%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2%E2%85%A1.md)
   
+  - [410、分割数组的最大值](https://github.com/1273545169/Leetcode/blob/master/410%E3%80%81%E5%88%86%E5%89%B2%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC.md)
+  
   
   
  ### 位运算
