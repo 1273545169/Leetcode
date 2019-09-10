@@ -1,0 +1,21 @@
+### 题目描述
+
+[leetcode 35](https://leetcode-cn.com/problems/search-insert-position/submissions/)
+
+### 思路解析
+
+```python
+
+class Solution:
+    def searchInsert(self, nums, target):
+        left, right = 0, len(nums)
+        while left < right:
+            mid = (left + right) // 2
+            if nums[mid] < target:
+                left = mid + 1
+            else:
+                right = mid
+        return left
+
+
+```
