@@ -1,5 +1,13 @@
 ## [Leetcode](https://leetcode-cn.com/problemset/algorithms/)
 
+### 二分查找
+
+ - []()
+
+ - [35、搜索插入位置](https://github.com/1273545169/Leetcode/blob/master/35%E3%80%81%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md)
+
+ - [69、x 的平方根](https://github.com/1273545169/Leetcode/blob/master/69%E3%80%81x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.md)
+
 ### 哈希表
 
 - [1、两数之和](https://github.com/1273545169/Leetcode/blob/master/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
