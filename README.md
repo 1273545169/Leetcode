@@ -2,7 +2,7 @@
 
 ### 二分查找
 
- - []()
+ - [704、二分查找](https://github.com/1273545169/Leetcode/blob/master/704%E3%80%81%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md)
 
  - [35、搜索插入位置](https://github.com/1273545169/Leetcode/blob/master/35%E3%80%81%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.md)
 
