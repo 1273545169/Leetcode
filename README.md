@@ -40,6 +40,8 @@
   
   - [946 验证栈序列](https://github.com/1273545169/Leetcode/blob/master/946%20%E9%AA%8C%E8%AF%81%E6%A0%88%E5%BA%8F%E5%88%97.md)
   
+  - [1047、删除字符串中的无重复子串](https://github.com/1273545169/Leetcode/blob/master/1047%E3%80%81%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%90%E4%B8%B2.md)
+  
   
   ### 动态规划
   
