@@ -75,6 +75,8 @@
   
   - [221、最大正方形](https://github.com/1273545169/Leetcode/blob/master/221%E3%80%81%E6%9C%80%E5%A4%A7%E6%AD%A3%E6%96%B9%E5%BD%A2.md)
   
+  - [887、鸡蛋掉落](https://github.com/1273545169/Leetcode/blob/master/887%E3%80%81%E9%B8%A1%E8%9B%8B%E6%8E%89%E8%90%BD.md)
+  
 ### DFS
   
   - [200、岛屿数量](https://github.com/1273545169/Leetcode/blob/master/200%E3%80%81%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)
