@@ -1,0 +1,36 @@
+### 题目描述
+
+[124. 二叉树中的最大路径和](https://leetcode.cn/problems/binary-tree-maximum-path-sum/)
+
+### 思路解析
+
+
+```python
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def __init__(self):
+        self.maxSum = float('-inf')
+
+    def maxPathSum(self, root: Optional[TreeNode]) -> int:
+        self.dfs(root)
+        return self.maxSum
+
+    def dfs(self, root):
+        if not root:
+            return 0
+
+        leftSum = max(0, self.dfs(root.left))
+        rightSum = max(0, self.dfs(root.right))
+
+        self.maxSum = max(self.maxSum, root.val + leftSum + rightSum)
+
+        return root.val + max(leftSum, rightSum)
+
+
+```
