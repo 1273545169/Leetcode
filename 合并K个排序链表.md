@@ -11,7 +11,7 @@
 class Solution:
     def mergeKLists(self, lists):
         if not lists:
-            return lists
+            return 
 
         if len(lists) == 1:
             # 注意返回的是链表节点，不能返回lists
